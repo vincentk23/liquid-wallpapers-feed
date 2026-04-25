@@ -37,5 +37,18 @@
     "isPremium": false,
     "isFeatured": false,
     "publishedAt": "2026-04-25"
-  }
+  },
+  {
+  "id": "test-purple-001",
+  "name": "Test Purple",
+  "category": "Abstract",
+  "thumbnailURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-purple-thumb.jpg",
+  "imageURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-purple-full.jpg",
+  "author": "MacVince",
+  "description": "Another test wallpaper for checking new wallpaper detection.",
+  "tags": ["test", "purple", "abstract"],
+  "isPremium": false,
+  "isFeatured": false,
+  "publishedAt": "2026-04-25"
+}
 ]
