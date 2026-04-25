@@ -9,7 +9,7 @@
     "description": "A test space wallpaper.",
     "tags": ["space", "blue", "minimal"],
     "isPremium": false,
-    "isFeatured": true
+    "isFeatured": true,
     "publishedAt": "2026-04-25"
   },
   {
@@ -22,20 +22,20 @@
     "description": "A test nature wallpaper.",
     "tags": ["nature", "green"],
     "isPremium": false,
-    "isFeatured": false
+    "isFeatured": false,
     "publishedAt": "2026-04-25"
   },
-{
-  "id": "test-blue-001",
-  "name": "Test Blue",
-  "category": "Abstract",
-  "thumbnailURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-blue-thumb.jpg",
-  "imageURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-blue-full.jpg",
-  "author": "MacVince",
-  "description": "A new test wallpaper for checking the remote update system.",
-  "tags": ["test", "blue", "abstract"],
-  "isPremium": false,
-  "isFeatured": false,
-  "publishedAt": "2026-04-25"
-}
+  {
+    "id": "test-blue-001",
+    "name": "Test Blue",
+    "category": "Abstract",
+    "thumbnailURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-blue-thumb.jpg",
+    "imageURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-blue-full.jpg",
+    "author": "MacVince",
+    "description": "A new test wallpaper for checking the remote update system.",
+    "tags": ["test", "blue", "abstract"],
+    "isPremium": false,
+    "isFeatured": false,
+    "publishedAt": "2026-04-25"
+  }
 ]
