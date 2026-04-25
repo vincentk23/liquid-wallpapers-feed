@@ -1,0 +1,26 @@
+[
+  {
+    "id": "test-space-001",
+    "name": "Test Space",
+    "category": "Space",
+    "thumbnailURL": "https://YOUR-LINK-HERE/wallpapers/test-space-thumb.jpg",
+    "imageURL": "https://YOUR-LINK-HERE/wallpapers/test-space-full.jpg",
+    "author": "MacVince",
+    "description": "A test space wallpaper.",
+    "tags": ["space", "blue", "minimal"],
+    "isPremium": false,
+    "isFeatured": true
+  },
+  {
+    "id": "test-nature-001",
+    "name": "Test Nature",
+    "category": "Nature",
+    "thumbnailURL": "https://YOUR-LINK-HERE/wallpapers/test-nature-thumb.jpg",
+    "imageURL": "https://YOUR-LINK-HERE/wallpapers/test-nature-full.jpg",
+    "author": "MacVince",
+    "description": "A test nature wallpaper.",
+    "tags": ["nature", "green"],
+    "isPremium": false,
+    "isFeatured": false
+  }
+]
