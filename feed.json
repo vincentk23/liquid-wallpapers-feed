@@ -4,7 +4,7 @@
     "name": "Test Space",
     "category": "Space",
     "thumbnailURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-space-thumb.jpg",
-    "imageURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-space-full.jpg"
+    "imageURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-space-full.jpg",
     "author": "MacVince",
     "description": "A test space wallpaper.",
     "tags": ["space", "blue", "minimal"],
@@ -16,7 +16,7 @@
     "name": "Test Nature",
     "category": "Nature",
     "thumbnailURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-nature-thumb.jpg",
-    "imageURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-nature-full.jpg"
+    "imageURL": "https://vincentk23.github.io/liquid-wallpapers-feed/test-nature-full.jpg",
     "author": "MacVince",
     "description": "A test nature wallpaper.",
     "tags": ["nature", "green"],
