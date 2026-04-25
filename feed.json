@@ -10,6 +10,7 @@
     "tags": ["space", "blue", "minimal"],
     "isPremium": false,
     "isFeatured": true
+    "publishedAt": "2026-04-25"
   },
   {
     "id": "test-nature-001",
@@ -22,5 +23,6 @@
     "tags": ["nature", "green"],
     "isPremium": false,
     "isFeatured": false
+    "publishedAt": "2026-04-25"
   }
 ]
